@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ashley Chang! @ashleyaechang
-- 👀 I’m interested in UI/UX design, product design, and design research.
-- 💡 I’m currently familiarizing myself with design tools, user-centered design principles, wireframing/prototyping, and user research.
-- 🤍 I’m looking to collaborate on projects that challenge me to apply my UX design skills, create user-centered solutions, and contribute to crafting exceptional digital experiences for users.
-- 📫 How to reach me: ashleyaechang@gmail.com // https://www.linkedin.com/in/ashleyaechang
+👋 Hi, I’m Ashley Chang! @ashleyaechang
+👀 I’m interested in software development, computer engineering, and problem-solving through technology.
+💡 I’m currently building my skills in web development, iOS development, and software engineering, with a focus on efficient system architecture and performance optimization.
+🤍 I’m looking to collaborate on projects that challenge me to apply my coding skills, develop innovative solutions, and contribute to impactful technological advancements.
+📫 How to reach me: ashleyaechang@gmail.com
 
 <!---
 ashleyaechang/ashleyaechang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
